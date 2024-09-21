@@ -1,9 +1,9 @@
 File System - Grupo 4
 
 Integrantes:
-Daniel Morales
-Hilda Melendez
-Yeferson Bonilla
+-Daniel Morales
+-Hilda Melendez
+-Yeferson Bonilla
 
 Simulador de Sistemas de Archivos
 FAT32
